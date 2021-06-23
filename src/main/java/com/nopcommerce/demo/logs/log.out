@@ -1,0 +1,11 @@
+2021-06-23 16:06:542 INFO  HomePage :45 - Click on Computer Menu --> [[ChromeDriver: chrome on WINDOWS (a5d92cd0be4cb3bb153bb1bde1de5e70)] -> xpath: //ul[@class='top-menu notmobile']/child::li[1]]
+2021-06-23 16:06:883 INFO  ComputerPage :22 - Click on Desktop --> Proxy element for: DefaultElementLocator 'By.xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]'
+2021-06-23 16:06:170 INFO  DesktopPage :50 - Sorting --> [[ChromeDriver: chrome on WINDOWS (a5d92cd0be4cb3bb153bb1bde1de5e70)] -> id: products-orderby]
+2021-06-23 16:06:348 INFO  DesktopPage :64 - Click on Add to Cart --> [[ChromeDriver: chrome on WINDOWS (a5d92cd0be4cb3bb153bb1bde1de5e70)] -> xpath: //div[@data-productid='1']/div[2]/div[3]/div[2]/button[3]]
+2021-06-23 16:06:306 INFO  BuildYourOwnComputerPage :43 - Select Processor --> [[ChromeDriver: chrome on WINDOWS (a5d92cd0be4cb3bb153bb1bde1de5e70)] -> id: product_attribute_1]
+2021-06-23 16:06:568 INFO  BuildYourOwnComputerPage :50 - Select RAM --> [[ChromeDriver: chrome on WINDOWS (a5d92cd0be4cb3bb153bb1bde1de5e70)] -> id: product_attribute_2]
+2021-06-23 16:06:738 INFO  BuildYourOwnComputerPage :57 - Select HDD 400 --> [[ChromeDriver: chrome on WINDOWS (a5d92cd0be4cb3bb153bb1bde1de5e70)] -> id: product_attribute_3_7]
+2021-06-23 16:06:880 INFO  BuildYourOwnComputerPage :64 - Select OS Vista Premium --> [[ChromeDriver: chrome on WINDOWS (a5d92cd0be4cb3bb153bb1bde1de5e70)] -> id: product_attribute_4_9]
+2021-06-23 16:06:39 INFO  BuildYourOwnComputerPage :71 - Select Total Commander Check Box --> [[ChromeDriver: chrome on WINDOWS (a5d92cd0be4cb3bb153bb1bde1de5e70)] -> id: product_attribute_5_12]
+2021-06-23 16:06:243 INFO  BuildYourOwnComputerPage :78 - Click on Add to Cart --> [[ChromeDriver: chrome on WINDOWS (a5d92cd0be4cb3bb153bb1bde1de5e70)] -> id: add-to-cart-button-1]
+2021-06-23 16:06:736 INFO  BuildYourOwnComputerPage :85 - Click on Pop Up Message
